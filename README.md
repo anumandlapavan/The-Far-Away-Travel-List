@@ -9,12 +9,11 @@ A simple React frontend application where users can select items they need to pa
 - Add items to your packing list
 - Remove items from your list
 - Mark items as packed
-- Responsive design for both desktop and mobile users
 
 ## Tech Stack
 
 - **React**: Frontend library for building the UI.
-- **Tailwind CSS**: For easy and responsive styling.
+- **Custom CSS**: For styling.
 - **JavaScript**: Core logic for the application.
   
 ## Getting Started
@@ -25,7 +24,6 @@ Follow these instructions to set up and run the project on your local machine.
 
 Make sure you have the following installed:
 
-- [Node.js](https://nodejs.org/) (v14 or above)
 - [npm](https://www.npmjs.com/) (or yarn)
 
 ### Installation
