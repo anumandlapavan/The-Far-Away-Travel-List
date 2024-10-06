@@ -1,8 +1,5 @@
 # The-Far-Away-Travel-List
 A simple React frontend application where users can select items they need to pack for their tour.
-# Tour Packing List
-
-A simple React frontend application where users can select items they need to pack for their tour. This application allows users to manage and customize their packing lists before traveling.
 
 ## Features
 
@@ -34,25 +31,19 @@ Make sure you have the following installed:
     git clone https://github.com/your-username/tour-packing-list.git
     ```
 
-2. Navigate to the project directory:
-
-    ```bash
-    cd tour-packing-list
-    ```
-
-3. Install dependencies:
+2. Install dependencies:
 
     ```bash
     npm install
     ```
 
-4. Start the development server:
+3. Start the development server:
 
     ```bash
     npm start
     ```
 
-5. Open your browser and go to `http://localhost:3000` to view the application.
+4. Open your browser and go to `http://localhost:3000` to view the application.
 
 ## Usage
 
