@@ -61,5 +61,4 @@ Make sure you have the following installed:
 - Mark items as "packed" once they're ready.
 - Remove any unnecessary items.
 
-## Project Structure
-
+# (CHECK OUT THE SCREENSHOTS OF WEBPAGE IN OUTPUT FOLDER)
